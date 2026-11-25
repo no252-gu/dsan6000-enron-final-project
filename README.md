@@ -15,8 +15,8 @@ We use the Enron Email Corpus to explore how employees communicated during the c
 
 ## Planned Work
 
-1. **Communication network and workload** — Analyze who emailed whom, how communication patterns changed over time, and how workload indicators such as response times and after-hours email activity shifted around key events.
-2. **Person of Interest (POI) communication patterns** — Compare the network positions, response behavior, and language of people labeled as POIs with those of other employees.
-3. **Semantic search** — Build a tool that retrieves relevant Enron emails and their conversation threads from natural-language queries.
+1. **Communication network and workload**: Analyze who emailed whom, how communication patterns changed over time, and how workload indicators such as response times and after-hours email activity shifted around key events.
+2. **Person of Interest (POI) communication patterns**: Compare the network positions, response behavior, and language of people labeled as POIs with those of other employees.
+3. **Semantic search**: Build a tool that retrieves relevant Enron emails and their conversation threads from natural-language queries.
 
 ## to be updated ...
