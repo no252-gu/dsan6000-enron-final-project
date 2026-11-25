@@ -19,6 +19,4 @@ We use the Enron Email Corpus to explore how employees communicated during the c
 2. **POI communication patterns** — Compare how people labeled as POIs in the dataset communicated with how other employees communicated.
 3. **Semantic search** — Build a tool that retrieves relevant emails from a natural-language query.
 
-## Project Status
-
-The ingestion script and initial EDA are in the repository. We’ll update this README with setup instructions, analysis notebooks, and results as the project progresses.
+## to be updated ....
